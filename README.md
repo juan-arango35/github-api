@@ -13,7 +13,7 @@ GitHub Explorer es una aplicación web que permite a los usuarios registrarse, i
 
   ### Registro y Autenticación
 - Los usuarios pueden crear una cuenta proporcionando su dirección de correo electrónico, nombre de usuario y contraseña.
-![Pantalla de Registro](assets/imagen3.png)
+
 
 
 ### Búsqueda de Usuarios
