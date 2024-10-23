@@ -31,8 +31,6 @@ Eficiente uso de la API pública de GitHub para obtener datos en tiempo real.
 Manejo de errores y respuestas de la API para asegurar una experiencia robusta.
 Tecnologías Utilizadas:
 
-Frontend: HTML, CSS, JavaScript (posiblemente un framework como React o Vue.js).
-Backend: Node.js con Express (o un backend similar para manejar la autenticación y las solicitudes a la API).
-Base de Datos: MongoDB (para almacenar información de usuarios y sesiones).
+***Frontend: HTML, CSS, JavaScript ***
 API: GitHub REST API para la búsqueda de usuarios y proyectos.
 Objetivo del Proyecto: El objetivo de GitHub Explorer es ofrecer una plataforma que no solo permita a los usuarios descubrir y seguir otros desarrolladores, sino también facilitar la creación de una comunidad al permitir que los usuarios se conecten y exploren trabajos y proyectos colaborativos en GitHub.
