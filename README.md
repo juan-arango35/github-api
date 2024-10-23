@@ -31,6 +31,6 @@ Eficiente uso de la API pública de GitHub para obtener datos en tiempo real.
 Manejo de errores y respuestas de la API para asegurar una experiencia robusta.
 Tecnologías Utilizadas:
 
-***Frontend: HTML, CSS, JavaScript ***
+Frontend: HTML, CSS, JavaScript
 API: GitHub REST API para la búsqueda de usuarios y proyectos.
 Objetivo del Proyecto: El objetivo de GitHub Explorer es ofrecer una plataforma que no solo permita a los usuarios descubrir y seguir otros desarrolladores, sino también facilitar la creación de una comunidad al permitir que los usuarios se conecten y exploren trabajos y proyectos colaborativos en GitHub.
