@@ -43,8 +43,8 @@ GitHub Explorer es una aplicación web que permite a los usuarios registrarse, i
 - Los usuarios pueden acceder a los proyectos públicos de un usuario, mostrando repositorios, descripciones y estadísticas de actividad.
 - Incluye opciones para filtrar y clasificar los proyectos por popularidad o fecha de creación.
 
-      <p align="center">
-  
+      
+  <p align="center">
   <img  src="git hub/assets/favoritos.gif" alt="crear registro" width="450"/>
 </p>
 
