@@ -13,17 +13,27 @@ GitHub Explorer es una aplicación web que permite a los usuarios registrarse, i
 
 <p align="center">
   
-  <img  src="git hub/assets/crearregistro.gif" alt="crear registro" width="500"/>
+  <img  src="git hub/assets/crearregistro.gif" alt="crear registro" width="450"/>
 </p>
 
   ### Registro y Autenticación
 - Los usuarios pueden crear una cuenta proporcionando su dirección de correo electrónico, nombre de usuario y contraseña.
+
+  <p align="center">
+  
+  <img  src="git hub/assets/login.gif" alt="crear registro" width="450"/>
+</p>
 
 
 
 ### Búsqueda de Usuarios
 - Utiliza la API de GitHub para permitir a los usuarios buscar otros perfiles de GitHub por nombre de usuario.
 - Muestra información relevante, como nombre, avatar y número de seguidores.
+
+    <p align="center">
+  
+  <img  src="git hub/assets/buscarusuario.gif" alt="crear registro" width="450"/>
+</p>
 
 ### Visualización de Seguidores
 - Permite a los usuarios ver la lista de seguidores de un perfil específico, proporcionando información sobre cada seguidor.
@@ -32,6 +42,12 @@ GitHub Explorer es una aplicación web que permite a los usuarios registrarse, i
 ### Exploración de Proyectos
 - Los usuarios pueden acceder a los proyectos públicos de un usuario, mostrando repositorios, descripciones y estadísticas de actividad.
 - Incluye opciones para filtrar y clasificar los proyectos por popularidad o fecha de creación.
+
+      <p align="center">
+  
+  <img  src="git hub/assets/favoritos.gif" alt="crear registro" width="450"/>
+</p>
+
 
 ### Interfaz Intuitiva
 - Diseño moderno y responsivo que proporciona una experiencia de usuario fluida.
